@@ -1,8 +1,10 @@
 body {
-    background-color: #c6c6c6;
+    background-color: green;
 }
 
-h1 {}
+h1 {
+    font-size: 5rem;
+}
 
 h2 {}
 
